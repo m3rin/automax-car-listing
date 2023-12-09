@@ -1,1 +1,3 @@
-Automax . List Your Car Now!!!!
+Automax . List Your Car Now!
+
+Django web-based application project. 
